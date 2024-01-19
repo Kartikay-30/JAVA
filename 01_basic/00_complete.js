@@ -46,7 +46,6 @@ let isLoggedIn = false //Boolen datatype
 // undefined => value is not assigned
 // symbol => to find unique component
 
-
 // object 
 
 console.log (typeof undefined); // undefined
